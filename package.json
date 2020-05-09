@@ -1,0 +1,33 @@
+{
+  "name": "fireficds",
+  "version": "1.0.0",
+  "description": "The open source Content Delivery System.",
+  "main": "main.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embedisbae/FirefiCDS.git"
+  },
+  "keywords": [
+    "firefi",
+    "cds",
+    "cdn",
+    "content",
+    "content",
+    "delivery",
+    "express"
+  ],
+  "author": "embedisbae",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/embedisbae/FirefiCDS/issues"
+  },
+  "homepage": "https://github.com/embedisbae/FirefiCDS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "node-fetch": "^2.6.0",
+    "randomstring": "^1.1.5"
+  }
+}
