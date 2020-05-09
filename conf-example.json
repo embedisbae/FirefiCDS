@@ -8,12 +8,12 @@
     ],
     "port": 80,
     "upload_dir": "uploads",
-    "db" : "",
+    "db" : "mysql",
     "db_login" : {
-        "username" : "",
-        "password" : "",
-        "database" : "",
-        "host" : "",
+        "username" : "root",
+        "password" : "examplepass123",
+        "database" : "exampledb",
+        "host" : "vps.example.net",
         "port" : 3306
     }
 }
