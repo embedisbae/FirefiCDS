@@ -3,12 +3,10 @@
         "Thank you for choosing FirefiCDS! To configure FirefiCDS fill out the options below.",
         "port: A port between 1-65535",
         "upload_dir: A directory relative to the FirefiCDS directory that'll act as the folder to upload files to.",
-        "db: What type of database are you using? Supports PostgreSQL & MySQL",
         "db_login: The login for your database."
     ],
     "port": 80,
     "upload_dir": "uploads",
-    "db" : "mysql",
     "db_login" : {
         "username" : "root",
         "password" : "examplepass123",
