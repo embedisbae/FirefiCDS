@@ -28,7 +28,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.1.9",
     "mysql": "^2.18.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "postgres": "^1.0.2",
     "randomstring": "^1.1.5"
   }
